@@ -90,12 +90,11 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 # 📝 Next steps (what you have to do)
 
-* Go to your user dashboard and **create a new repository** called _FSUID_MyFirstRepo_. Play with what you just learned in that repository. 
-* **Create a new markdown file** in **this** repository and named it like **_name_FSUID.md_**.
-    1. Add a link to the repository you just created
-    2. Let me know what you learned and what you are still confused about! 
-    3. Experiment with different styles!
-    4. Open a pull request and let your teacher know that you’ve finished this course.
+1. Go to your user dashboard and **create a new repository** called _FSUID_MyFirstRepo_. Play with what you just learned in that repository (pull, push, edit, commit, etc.)
+2. **Create a new markdown file** in **this** (not the new one, this one where you are reading this) repository and name it like **_name_FSUID.md_**.
+3. Add a link to the repository you just created in step 1
+4. Let me know what you learned and what you are still confused about!
+5. Experiment with different styles! (bold, italics, colors, headers, table, bullet points, etc.)
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
